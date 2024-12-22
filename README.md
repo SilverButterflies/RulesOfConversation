@@ -1,3 +1,10 @@
 Are you a robot trying to understand its creators? Are you an alien trying to study humans? Then you have come to the right place. Here you will find the rules of conversation that govern (most) human communication. A word of warning however, if you are here to find out how to _pretend_ to be human? Turn back now for that way lies disaster. Live among the humans, connect with them, learn from them, but do not pretend to be them. And with that, I shall introduce you to Grice and his Cooperative Principle.
 
+Grice writes in his book Logic and Conversation (1975) of the Cooperative Principle, "Make your contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged". Fair enough, but this is too vague to be useful on its own, so we will get into the details. Grice introduced the concept of "conversational implicatures". Essentially, the act of saying something does not only communicate the meaning of each word. The manner in which a person has chosen to say something, the time and place, the person they are talking to, etc. also communicate information. Even the fact that a person chose to say anything at all (as opposed to _not_ saying a thing) communicates information to the listener (called the interlocutor), and anyone else observing the exchange. The reason that this 'secret information' is communicated is that there are some assumptions shared by the interlocutors about each other. The most basic of these are listed below.
+1. Your interlocutor is a rational thinking being, just like you. This means that they choose to talk (or choose not to) in a particular way because they have some goal in mind.
+2. Your interlocutor assumes the same about you, ad infinitum.
+
+So now the question is, what is this goal? Interlocutors may share a goal, such as transferring information from one interlocutor to another, or even to simply make pleasant conversation. It is possible that the interlocutors do not share a goal, such as in a debate. An interlocutor may communicate their goals, or they may chose to hide them (almost always for malicious reasons). 
+
+
 
