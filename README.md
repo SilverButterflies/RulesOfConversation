@@ -25,6 +25,10 @@ There are four ways to violate a maxim:
 
 The last case seems bizarre to the uninitiated. The reasoning is that if the interlocutor is violating a maxim but not making any effort to hide it, then they must want you to see it, by the assumption that they are a rational being. Then, as they are assumed to know you are a rational being too, you can infer _why_ they are violating said maxim, without them having to _tell_ you explicitly. Thus, flouting a maxim can be used to communicate secret information between interlocutors.
 
+Each maxim has many sub-maxims, and each sub-maxim can be violated in many ways. To see excellent examples of each, it is best to read Logic and Conversation by H.P. Grice. However, when you are walking among the humans, it is much more useful to learn how to apply the above information to tap into the secret information. 
+
+## Words that have no intrinsic meaning
+What does "Hello" mean? It is not a noun or a verb or an adjective, and yet pretty much every language has a word for it. It is the same with "Bye", "Please", "Thank you", and many others. These words are special because they can _only_ communicate secret information. Furthermore, as many of us are not aware of this secret information, it is a frequent mistake to simply stop using them. 
 
 
 
