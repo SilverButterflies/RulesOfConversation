@@ -1,6 +1,7 @@
 Are you a robot trying to understand its creators? Are you an alien trying to study humans? Then you have come to the right place. Here you will find the rules of conversation that govern (most) human communication. A word of warning however, if you are here to find out how to _pretend_ to be human? Turn back now for that way lies disaster. Live among the humans, connect with them, learn from them, but do not pretend to be them. And with that, I shall introduce you to Grice and his Cooperative Principle.
 
   <font color="green">This is an example of following the rules of conversation.</font>
+  
   <font color="red">This is an example of a faux pas caused by not following the rules of conversation.</font>
 
 Grice writes in his book Logic and Conversation (1975) of the Cooperative Principle, "Make your contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged". 
@@ -23,16 +24,23 @@ Looking at this list, they look like universal rules if you want to be understoo
 There are four ways to violate a maxim:
 1. Quietly: This is known as 'lying by omission'.
 2. Opt-out: your interlocutor might apologise for not being allowed to say more.
+
   <font color="green">Sorry, my lips are sealed.</font>
-4. Clash: There is no way to fulfill one maxim without violating another. For example if your interlocutor does not know something, they cannot fulfil the maxim of Quantity without violating the maxim of Quality.
+3. Clash: There is no way to fulfill one maxim without violating another. For example if your interlocutor does not know something, they cannot fulfil the maxim of Quantity without violating the maxim of Quality.
+  
   <font color="green">A: Where is that book you borrowed?</font>
+  
   <font color="green">B: It is here somewhere.</font>
+  
   This exchange violates the maxim of Quantity, because it is not specific enough. A assumes that B is doing his best to follow the maxims. By this assumption, if B tried to follow this maxim, he would break another maxim, such as below.
+  
   <font color="red">A: Where is that book you borrowed?</font>
+  
   <font color="red">B: I gave it back to you this morning.</font>
+  
   In this case, B is lying, thus breaking the maxim of Quality. Thus, A concludes that B does not know where the book is, and has given the information he has, so they can start looking for it. 
 
-6. Flouting: The interlocutor blatantly violates a maxim for no aparent reason.
+4. Flouting: The interlocutor blatantly violates a maxim for no aparent reason.
 
 The last case seems bizarre to the uninitiated. The reasoning is that if the interlocutor is violating a maxim but not making any effort to hide it, then they must want you to see it, by the assumption that they are a rational being. Then, as they are assumed to know you are a rational being too, you can infer _why_ they are violating said maxim, without them having to _tell_ you explicitly. Thus, flouting a maxim can be used to communicate secret information between interlocutors.
 
