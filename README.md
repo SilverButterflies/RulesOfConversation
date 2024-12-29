@@ -26,6 +26,7 @@ There are four ways to violate a maxim:
 2. Opt-out: your interlocutor might apologise for not being allowed to say more.
 
   <font color="green">Sorry, my lips are sealed.</font>
+  
 3. Clash: There is no way to fulfill one maxim without violating another. For example if your interlocutor does not know something, they cannot fulfil the maxim of Quantity without violating the maxim of Quality.
   
   <font color="green">A: Where is that book you borrowed?</font>
@@ -34,7 +35,7 @@ There are four ways to violate a maxim:
   
   This exchange violates the maxim of Quantity, because it is not specific enough. A assumes that B is doing his best to follow the maxims. By this assumption, if B tried to follow this maxim, he would break another maxim, such as below.
   
-  <font color="red">A: Where is that book you borrowed?</font>
+  <font color="red">A: Where is that book you borrowed?</font>\n
   
   <font color="red">B: I gave it back to you this morning.</font>
   
@@ -56,4 +57,4 @@ What does "Hello" mean? It is not a noun or a verb or an adjective, and yet pret
 **Bye:** This word and others in its family (e.g. goodbye, have a great __, see you soon) are used to close what a hello started. They indicate that you are no longer paying attention to the interlocutor for in case they start talking to you. It is important to note that this is not necessarily said as soon as you and your interlocutor stop speaking, but rather when you _cannot_ continue speaking if you wanted to, such as if one of you is leaving the earshot of the other. 
 
 ## Non-verbal communication
-Humans communicate secret information from their body language. Frustratingly, this is frequently in contrast to their actual words. 
+Humans communicate secret information from their body language. Frustratingly, this is frequently in contrast to their actual words. Including a guide to decoding this body language is difficult using just text, but I might add it here later. For now, I am assuming that you have already decoded the human's body language (it is quite similar to that of other mammals such as cats, though most humans do not hiss when angry). The key when dealing with a human's feelings is to remember the aforementioned assumptions. While it is easy to pet a cat to get her to calm down, it is much more complicated with a human. Firstly, it is 
