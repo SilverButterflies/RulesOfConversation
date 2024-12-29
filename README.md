@@ -25,9 +25,9 @@ There are four ways to violate a maxim:
   
 3. Clash: There is no way to fulfill one maxim without violating another. For example if your interlocutor does not know something, they cannot fulfil the maxim of Quantity without violating the maxim of Quality.
   
-  >A: Where is that book you borrowed?</font>
+  >A: Where is that book you borrowed?
   
-  >B: It is here somewhere.</font>
+  >B: It is here somewhere.
   
   This exchange violates the maxim of Quantity, because it is not specific enough. A assumes that B is doing his best to follow the maxims. By this assumption, if B tried to follow this maxim, he would break another maxim, such as below.
   
