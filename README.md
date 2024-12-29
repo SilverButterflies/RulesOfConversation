@@ -2,7 +2,7 @@ Are you a robot trying to understand its creators? Are you an alien trying to st
 
     <p style="color:green">This is an example of following the rules of conversation.</p>
     
-    <font color="red">This is an example of a faux pas caused by not following the rules of conversation.</font>
+    <p style="color:red">This is an example of a faux pas caused by not following the rules of conversation.</p>
   
   Grice writes in his book Logic and Conversation (1975) of the Cooperative Principle, "Make your contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged". 
 
@@ -57,4 +57,4 @@ What does "Hello" mean? It is not a noun or a verb or an adjective, and yet pret
 **Bye:** This word and others in its family (e.g. goodbye, have a great __, see you soon) are used to close what a hello started. They indicate that you are no longer paying attention to the interlocutor for in case they start talking to you. It is important to note that this is not necessarily said as soon as you and your interlocutor stop speaking, but rather when you _cannot_ continue speaking if you wanted to, such as if one of you is leaving the earshot of the other. 
 
 ## Non-verbal communication
-Humans communicate secret information from their body language. Frustratingly, this is frequently in contrast to their actual words. Including a guide to decoding this body language is difficult using just text, but I might add it here later. For now, I am assuming that you have already decoded the human's body language (it is quite similar to that of other mammals such as cats, though most humans do not hiss when angry). The key when dealing with a human's feelings is to remember the aforementioned assumptions. While it is easy to pet a cat to get her to calm down, it is much more complicated with a human. Firstly, it is 
+Humans communicate secret information from their body language. Frustratingly, this is frequently in contrast to their actual words. Including a guide to decoding this body language is difficult using just text, but I might add it here later. For now, I am assuming that you have already decoded the human's body language (it is quite similar to that of other mammals such as cats, though most humans do not hiss when angry). The key when dealing with a human's feelings is to remember the aforementioned assumptions. While it is easy to pet a cat to get her to calm down, it is much more complicated with a human. Firstly, it is dependent on your relationship with said human. 
