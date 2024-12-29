@@ -21,19 +21,19 @@ There are four ways to violate a maxim:
 1. Quietly: This is known as 'lying by omission'.
 2. Opt-out: your interlocutor might apologise for not being allowed to say more.
 
-  A: Sorry, my lips are sealed.
+  >A: Sorry, my lips are sealed.
   
 3. Clash: There is no way to fulfill one maxim without violating another. For example if your interlocutor does not know something, they cannot fulfil the maxim of Quantity without violating the maxim of Quality.
   
-  A: Where is that book you borrowed?</font>
+  >A: Where is that book you borrowed?</font>
   
-  B: It is here somewhere.</font>
+  >B: It is here somewhere.</font>
   
   This exchange violates the maxim of Quantity, because it is not specific enough. A assumes that B is doing his best to follow the maxims. By this assumption, if B tried to follow this maxim, he would break another maxim, such as below.
   
   >A: Where is that book you borrowed?
   
-  B: I gave it back to you this morning.
+  >B: I gave it back to you this morning.
   
   In this case, B is lying, thus breaking the maxim of Quality. Thus, A concludes that B does not know where the book is, and has given the information he has, so they can start looking for it. 
 
