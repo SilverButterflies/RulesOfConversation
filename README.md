@@ -29,7 +29,7 @@ There are four ways to violate a maxim:
   
   >B: It is here somewhere.
   
-  This exchange violates the maxim of Quantity, because it is not specific enough. A assumes that B is doing his best to follow the maxims. By this assumption, if B tried to follow this maxim, he would break another maxim, such as below.
+  This exchange violates the maxim of Quantity, because B is not specific enough. A assumes that B is doing his best to follow the maxims. By this assumption, if B tried to follow this maxim, he would break another maxim, such as below.
   
   >A: Where is that book you borrowed?
   
