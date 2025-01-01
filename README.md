@@ -73,3 +73,6 @@ There are a few simple guidelines for maintaining this 'appropriate' level of ey
 - Maintain eye contact for the entire duration of saying a word with no intrinsic meaning.
 - Make brief eye contact after each sentence when you are speaking. Do not sustain it for more than 5 seconds. 
 - Make eye contact after every implied comma (,) when your interlocutor is speaking. Do not sustain it for more than 3 seconds without demonstrating your attention. Do not sustain eye contact for more than 10 seconds. 
+
+## Demonstrating your attention
+When your interlocutor is speaking, it is important to acknowledge that you are paying attention. This maintains the cooperative principle. 
