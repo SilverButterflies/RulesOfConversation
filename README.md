@@ -90,8 +90,23 @@ Ik theres more things I can say here, but idk what.. Am I secretly bad at this? 
     > C: Hey... Im sorry to break this to you... but your grade on the test was below passing.
 
 - If the truth is negative, but not immediately relevant or fixable, dont tell them.
-   > D: I think you are ugly
+   > D: I think you are ugly.
+
    Dont say that.
+
+- As a subcategory of the above, if your interlocutor is wrong but it is not currently relevant, and they are not known for being open to accepting they were wrong, dont tell them they were wrong.
+    > E: I already knew that flamingoes make their own pink pigment.
+    > F: No they dont! Flamingoes get carotenoids from the shrimp they eat.
+    > E: Ugh! Why do you have to be such a rude know-it-all?!
+
+    Dont be F when talking to people like E, not only will you not be able to change their mind, you will just start a fight.
+
+- If you are talking to someone who you know is open to changing their mind and learning new things (they are awesome take good care of them,) you can correct them politely.
+    > G: Did you know that we found a map with Antarctica on it, but without ice, 250yrs before it was "discovered"?
+    > H: Actually, 15th century cartographers liked to put nonexistent landmasses on the north and south in addition to the real ones in the east and west (Eurasia and America), to 'balance the world'. They just happened to be (kind of) right about the suthern one.
+    > G: Omg really? I had no idea! Thank you for telling me. This is so interesting!
+
+    As H, guard G with your life.
 
 ## Asking questions
 I have no idea how to ask lots of questions without seeming rude and argumentative :(
