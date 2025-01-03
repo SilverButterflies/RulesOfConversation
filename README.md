@@ -72,7 +72,9 @@ There are a few simple guidelines for maintaining this 'appropriate' level of ey
 
 - Maintain eye contact for the entire duration of saying a word with no intrinsic meaning.
 - Make brief eye contact after each sentence when you are speaking. Do not sustain it for more than 5 seconds. 
-- Make eye contact after every implied comma (,) when your interlocutor is speaking. Do not sustain it for more than 3 seconds without demonstrating your attention. Do not sustain eye contact for more than 10 seconds. 
+- Make eye contact after every implied comma (,) when your interlocutor is speaking. Do not sustain it for more than 3 seconds without demonstrating your attention. Do not sustain eye contact for more than 10 seconds.
+
+When breaking eye contact, it is important not to focus on any one spot. Try not to look at any particular object for more than 1 second, unless that object is the current subject of your conversation. If it helps you, then use a simple pattern, such as look left twice then right once, then further right, then further left, repeat, etc.
 
 ## Demonstrating your attention
 When your interlocutor is speaking, it is important to acknowledge that you are paying attention. This indicates that you value your interlocutor and their words, which makes them think better of you in turn. The way to acknowledge that you are listening is to nod slightly, and/or say "mhm" with a rising tone, after every implied comma.  
