@@ -12,7 +12,7 @@ The cooperative principle essentially states that unless there is very obvious e
 
 The four maxims are:
 1. Quantity: Say only how much you need to say, not more not less.
-3. Quality: Be truthful.
+3. Quality: Be truthful (mostly).
 4. Relation: Connect your thought to the thought that came before.
 5. Manner: Speak in a way that you will be understood by your interlocutor.
 
@@ -77,6 +77,21 @@ There are a few simple guidelines for maintaining this 'appropriate' level of ey
 ## Demonstrating your attention
 When your interlocutor is speaking, it is important to acknowledge that you are paying attention. This indicates that you value your interlocutor and their words, which makes them think better of you in turn. The way to acknowledge that you are listening is to nod slightly, and/or say "mhm" with a rising tone, after every implied comma.  
 Ik theres more things I can say here, but idk what.. Am I secretly bad at this? I should practice my listening skills it seems. 
+
+## More on the Maxim of Quality (sometimes being useful is better than telling the truth)
+"Honesty is the best policy." All children learn this rule from a young age. Humans however, seem to outgrow this rule. It seems that sometimes, the Maxim of Quality is best followed by deliberately _lying_. The more proper rules are:
+- If the truth is positive, tell the truth.
+    > A: You have really pretty eyes.
+
+- If the truth is negative, but easily fixable, tell the truth (gently).
+    > B: Hey, I think you have something stuck in your teeth.
+
+- If the truth is negative, but they need to know it for some reason, tell them the truth.
+    > C: Hey... Im sorry to break this to you... but your grade on the test was below passing.
+
+- If the truth is negative, but not immediately relevant or fixable, dont tell them.
+   > D: I think you are ugly
+   Dont say that.
 
 ## Asking questions
 I have no idea how to ask lots of questions without seeming rude and argumentative :(
