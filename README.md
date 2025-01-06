@@ -52,7 +52,7 @@ What does "Hello" mean? It is not a noun or a verb or an adjective, and yet pret
 
 **Bye:** This word and others in its family (e.g. goodbye, have a great __ , see you soon) are used to close what a hello started. They indicate that you are no longer paying attention to the interlocutor for in case they start talking to you. It is important to note that this is not necessarily said as soon as you and your interlocutor stop speaking, but rather when you _cannot_ continue speaking if you wanted to, such as if one of you is leaving the earshot of the other. 
 
-# A special note on greetings
+## A special note on greetings
 Greetings ("Hello" and "Bye") are important rituals that have some of their own special rules. The overarching goal is to exhibit joy at seeing the human that is greeted. This makes the human feel valued. The process of executing a greeting is detailed below. 
 
 1. Decide what kind of greeting you wish to use. Do this based on how close you are at this moment, distance wise. If you are within around 2m, use a verbal greeting. If you are further, it is better to wave.
