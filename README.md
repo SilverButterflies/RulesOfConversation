@@ -138,4 +138,6 @@ The tone of a human's voice communicates their emotions about what they are talk
 - **Period/Full stop (.):** A period indicates the end of a sentence. It is expressed during speaking by lowering the pitch of the last syllable, and making a slightly longer (about a second) pause before continuing the next sentence. This is also a good place to draw breath, though it may not be necessary after every sentence.
 - **Stressed and unstressed syllables:** In english, each word has one syllable that is stressed, and the remaining syllables (if any) are unstressed. Knowing which syllable is stressed in each word is as important for saying the word correctly, as spelling is for writing the word correctly. The stressed syllable is drawled slightly (the amount often depends on accent). 
 
-You can get a good practice of hearing this for yourself by listening to someone reading a book out loud. Then you can see how the written commas and periods correspond to changes in tone. 
+You can get a good practice of hearing this for yourself by listening to someone reading a book out loud. Then you can see how the written commas and periods correspond to changes in tone.
+
+In general, in a conversation, silence is unwelcome {'the universe abhors vacuum' situation}. This means, that when a person stops speaking, someone takes
