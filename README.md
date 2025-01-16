@@ -123,3 +123,10 @@ Like... depends on how much they would be comfortable with you touching them?? M
 
 ## Default face
 It is important to maintain an appropriate facial expression in public, if you wish to blend into the crowd. The way to do this is to maintain a facade of mild dispassionate interest in your surroundings. Mild, because strong emotions are not the default; dispassionate because passion is not the default; interest because glassy eyes are a sign of sickness, which is frowned upon. To practice default face, look at your reflection in the mirror. Try to think of nothing, just observe your face as if it is not that interesting. Next, tilt the corners of your mouth up slightly. Try not to widen your lips, only turn the corners up. Make sure there is no tightness in your jaw, try to relax your muscles. Also, keep your eyes fully open. Do not keep them half-closed. Look straight ahead. Looking left and right is allowed, but try to constrain looking up and down to only a few degrees in either direction. Try not to look at things too far away, it creates a "distant look". Last and most importantly, keep moving. Never be completely still, it is considered by humans to be a sign of illness.
+
+## Leaving a party
+Say byee to everyone (i know its painful)
+
+## Making a joke 
+comment on the internet: "People find intense/awkward/negative stories told with an expressionless tone funny. The funny is in the tension between a dramatic story and the drama-less way of telling it. They're not expecting whats going to happen next because the tole doesnt give it away, and the constant trickle of surprise is what they enjoy."
+another comment: "Deadpan or dry humour when we are actually being serious. But part of telling a joke is telling is without much effort. You shouldnt see the punchline coming because of the cadence, or its not funny."
