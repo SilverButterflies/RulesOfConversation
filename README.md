@@ -140,4 +140,7 @@ The tone of a human's voice communicates their emotions about what they are talk
 
 You can get a good practice of hearing this for yourself by listening to someone reading a book out loud. Then you can see how the written commas and periods correspond to changes in tone.
 
-In general, in a conversation, silence is unwelcome {'the universe abhors vacuum' situation}. This means, that when a person stops speaking, someone takes
+## Awkwardness
+I dont know what you have been told, but awkwardness isnt real. It is, in the most literal sense, a social construct. Do you remember anyone (other than yourself) being awkward? How often have you thought about it? No, and never. Because awkwardness is not real, it is simply an illusion. Do not fall for it. Do you think you are being awkward? No. You are not. Because awkwardness isnt real. Do you think someone else is being awkward? No their are not. Awkwardness isnt real. Just keep doing what you were doing, and stop worrying about "being awkward". Awkwardness isnt real. 
+
+The best part is, if you pull this off well and dont succumb to the "awkward feeling", humans will simply go with it and not feel awkward either. If they do not, they are the ones seen as awkward. 
