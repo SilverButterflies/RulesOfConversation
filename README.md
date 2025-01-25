@@ -104,6 +104,13 @@ Ik theres more things I can say here, but idk what.. Am I secretly bad at this? 
     > E: Ugh! Why do you have to be such a rude know-it-all?!
 
     Dont be F when talking to people like E, not only will you not be able to change their mind, you will just start a fight.
+    A better response might be
+
+    > E: I already knew that flamingoes make their own pink pigment.
+    
+    > F: Oh where did you learn that?
+    
+    > E: My gramma told me :). You know she used to tell these amazing stories...blahblah
 
 - If you are talking to someone who you know is open to changing their mind and learning new things (they are awesome take good care of them,) you can correct them politely.
     > G: Did you know that we found a map with Antarctica on it, but without ice, 250yrs before it was "discovered"?
