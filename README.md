@@ -1,4 +1,4 @@
-Are you a robot trying to understand its creators? Are you an alien trying to study humans? Then you have come to the right place. Here you will find the rules of conversation that govern (most) human communication. Remember these rules and apply them well, and you too can blend in among the humans as one of them. A word of warning however, it is mentally taxing to maintain this appearance, so make sure not to keep it up all of the time. And with that, I shall introduce you to Grice and his Cooperative Principle.
+Are you a robot trying to understand its creators? Are you an alien trying to study humans? Then you have come to the right place. Here you will find the rules of conversation that govern (most) human communication. Remember these rules, and apply them well, and you too can blend in among the humans as one of them. A word of warning however, it is mentally taxing to maintain this appearance, so make sure not to keep it up all of the time. And with that, I shall introduce you to Grice and his Cooperative Principle.
 
 Grice writes in his book Logic and Conversation (1975) of the Cooperative Principle, "Make your contribution such as is required, at the stage at which it occurs, by the accepted purpose or direction of the talk exchange in which you are engaged". 
 
@@ -120,6 +120,7 @@ Like maybe phrase it as a request for information? like "can you please tell me 
 
 ## Comforting people when they are sad
 Like... depends on how much they would be comfortable with you touching them?? Max it out. They let you hold their hand, so that. They let you hold them in your arms? Perfect. Also it doesnt matter what you say, as long as you dont interrupt when they are talking, and you say it really quietly and with a rising tone at the end and stretching the last syllable. Bonus points if you end every statement of fact with a "...yea?" like its a question. Honestly idk Im really bad at this :(
+"I dont want to talk about it" ask again, they often change their mind. If not, then drop it for real. 
 
 ## Default face
 It is important to maintain an appropriate facial expression in public, if you wish to blend into the crowd. The way to do this is to maintain a facade of mild dispassionate interest in your surroundings. Mild, because strong emotions are not the default; dispassionate because passion is not the default; interest because glassy eyes are a sign of sickness, which is frowned upon. To practice default face, look at your reflection in the mirror. Try to think of nothing, just observe your face as if it is not that interesting. Next, tilt the corners of your mouth up slightly. Try not to widen your lips, only turn the corners up. Make sure there is no tightness in your jaw, try to relax your muscles. Also, keep your eyes fully open. Do not keep them half-closed. Look straight ahead. Looking left and right is allowed, but try to constrain looking up and down to only a few degrees in either direction. Try not to look at things too far away, it creates a "distant look". Last and most importantly, keep moving. Never be completely still, it is considered by humans to be a sign of illness.
@@ -139,6 +140,13 @@ The tone of a human's voice communicates their emotions about what they are talk
 - **Stressed and unstressed syllables:** In english, each word has one syllable that is stressed, and the remaining syllables (if any) are unstressed. Knowing which syllable is stressed in each word is as important for saying the word correctly, as spelling is for writing the word correctly. The stressed syllable is drawled slightly (the amount often depends on accent). 
 
 You can get a good practice of hearing this for yourself by listening to someone reading a book out loud. Then you can see how the written commas and periods correspond to changes in tone.
+
+## Arriving on time
+It might seem logical that if an agreement is made
+
+## When the cooperative principle is overtly violated (dealing with purposeful meanness)
+
+## 
 
 ## Awkwardness
 I dont know what you have been told, but awkwardness isnt real. It is, in the most literal sense, a social construct. Do you remember anyone (other than yourself) being awkward? How often have you thought about it? No, and never. Because awkwardness is not real, it is simply an illusion. Do not fall for it. Do you think you are being awkward? No. You are not. Because awkwardness isnt real. Do you think someone else is being awkward? No they are not. Awkwardness isnt real. Just keep doing what you were doing, and stop worrying about "being awkward". Awkwardness isnt real. 
