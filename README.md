@@ -127,6 +127,7 @@ Like maybe phrase it as a request for information? like "can you please tell me 
 
 ## Comforting people when they are sad
 Like... depends on how much they would be comfortable with you touching them?? Max it out. They let you hold their hand, so that. They let you hold them in your arms? Perfect. Also it doesnt matter what you say, as long as you dont interrupt when they are talking, and you say it really quietly and with a rising tone at the end and stretching the last syllable. Bonus points if you end every statement of fact with a "...yea?" like its a question. Honestly idk Im really bad at this :(
+
 "I dont want to talk about it" ask again, they often change their mind. If not, then drop it for real. 
 
 ## Default face
