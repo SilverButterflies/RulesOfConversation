@@ -67,71 +67,69 @@ Tip for workplaces from @adhd.fans: The day of the week eg. "It's Monday" can be
 ## Concluding a conversation (setup for saying bye)
 When saying bye, there is also an additional setup. Once a logical conclusion has occured to a conversation (eg. you cannot think of what to say, you have to be somewhere and you realise you are running out of time, etc.), it is important to communicate to your interlocutor that the conversation is to be concluded. Humans usually do this using "concluding phrases". Which phrases a human chooses to use for this depends on their culture and background, but their phrase of choice is usually consistent between conversations. Thus, if you know your interlocutor well, you can recognise their concluding phrase and use it as a cue to say your own. Some concluding phrases to watch out for are any references to time. Especially if its preceded by an exclamation.
 
-    > Wow! Look at the time.
+  >Wow! Look at the time.
     
-    > Omg! Its getting quite late.
+  >Omg! Its getting quite late.
     
 Many concluding phrases also include a reference to the current conversation, in the past tense.
 
-    > Well, it was great talking to you!
+  >Well, it was great talking to you!
     
-    > Hey, nice catching up with you!
+  >Hey, nice catching up with you!
     
 It is also possible that the concluding phrase makes reference to potential future conversations.
 
-    > So, lets catch sometime!
+  >So, lets catch sometime!
     
-    > Yeah, see you around then!
+  >Yeah, see you around then!
     
-    > Yes, lets meet up for tea soon!
+  >Yes, lets meet up for tea soon!
     
 It is important to note that these are not an appointment that should be in your agenda. There is no time and place given, precisely because they are not real plans. Rather, they are simply there to open up the possibility of making plans in the future. They express the desire to continue making future plans, but that does not mean you need to figure out when you will next meet, at that very moment. Still, these are very noncommital, because many people will not use these particular concluding phrases, and that does not mean they did not enjoy the conversation or that they do not want to make plans with you in the future. Also, its possible, and often expected, to use multiple concluding phrases consequtively by both interlocutors, such as in the following example.
 
-    > A: Hey wow! Look at the time!
+  >A: Hey wow! Look at the time!
     
-    > B: Yeah! Its getting quite late! 
-    
-I have an early morning tomorrow.
+  >B: Yeah! Its getting quite late! I have an early morning tomorrow.
 
-    > A: Hey, its been nice catching up with you man!
+  >A: Hey, its been nice catching up with you man!
     
-    > B: Yes, we should meet up for tea sometime soon.
+  >B: Yes, we should meet up for tea sometime soon.
     
-    > A: Yea absolutely. So anyway see you around. Bye bye!
+  >A: Yea absolutely. So anyway see you around. Bye bye!
     
-    > B: Byee! Goodnight!
+  >B: Byee! Goodnight!
     
-    > A: Goodnight!
+  >A: Goodnight!
     
 The most common progression follows the above pattern, starting with references to time, then referring to the current conversation in the past tense, then making noncommital references to future conversations, and finally ending with a bye. It is also important to note here, than A already said bye (in this case bye bye), and after B replied to her bye, he also added another bye (in this case goodnight). This meant that A had to reply to this new bye, even though she had already said bye once before. Because of this, this conversation includes two differnt byes one of the other. This sometimes happens if interlocutors disagree on which byes is most appropriate for the occasion. There is no upper limit to how many byes a conversation can have, but its best if you initiate no more than 2 _more_ byes than your interlocutors(s). 
 
-    > C: Bye Bye! 
+  >C: Bye Bye! 
     
-    > D: Bye! See you later!
+  >D: Bye! See you later!
     
-    > C: See you later!
+  >C: See you later!
     
-    > D: Goodnight!
+  >D: Goodnight!
     
-    > C: Goodnight!
+  >C: Goodnight!
     
-    > D: Enjoy your weekend!
+  >D: Enjoy your weekend!
     
-    > C: Enjoy your weekend.
+  >C: Enjoy your weekend.
     
-D is testing C's patience, and they are looking for a polite way to escape D.
+  D is testing C's patience, and they are looking for a polite way to escape D.
 
-    > D: Hey ill see you at the game next week actually. 
+  >D: Hey ill see you at the game next week actually. 
     
-    > C: Yes see you then. Ok I really have to go now. Bye bye!
+  >C: Yes see you then. Ok I really have to go now. Bye bye!
     
-    > D: Bye! It was nice talking to you!
+  >D: Bye! It was nice talking to you!
     
-D has mistakenly used a concluding phrase after the conversation already reached the bye stage, and C is getting annoyed. They really would like to be home in time for their favourite tv show. 
+  D has mistakenly used a concluding phrase after the conversation already reached the bye stage, and C is getting annoyed. They really would like to be home in time for their favourite tv show. 
 
-    > C: Yes, been nice talking. See you! * practically runs away from the conversation* 
+  >C: Yes, been nice talking. See you! * practically runs away from the conversation* 
     
-    > D (to C's rapidly receding form): Lets meet up sometime?
+  >D (to C's rapidly receding form): Lets meet up sometime?
 
 ## Decoding non-verbal communication (facial expressions, emotions, and the like)
 Humans communicate secret information from their body language. Frustratingly, this is frequently in contrast to their actual words. Including a guide to decoding this body language is difficult using just text, but I might add it here later. Look up tutorials for actors in plays if that helps. For now, I am assuming that you have already decoded the human's body language (it is quite similar to that of other mammals such as cats, though most humans do not hiss when angry). The key when dealing with a human's feelings is to remember the aforementioned assumptions. While it is easy to pet a cat to get her to calm down, it is much more complicated with a human. Firstly, it is dependent on your relationship with said human. Additionally, it is dependent on how much physical contact they prefer. How do you find this out? I have absolutely no idea...Ask them? idk
