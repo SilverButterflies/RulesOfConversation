@@ -233,9 +233,13 @@ The tone of a human's voice communicates their emotions about what they are talk
 - **Period/Full stop (.):** A period indicates the end of a sentence. It is expressed during speaking by lowering the pitch of the last syllable, and making a slightly longer (about a second) pause before continuing the next sentence. This is also a good place to draw breath, though it may not be necessary after every sentence.
 - **Stressed and unstressed syllables:** In english, each word has one syllable that is stressed, and the remaining syllables (if any) are unstressed. Knowing which syllable is stressed in each word is as important for saying the word correctly, as spelling is for writing the word correctly. The stressed syllable is drawled slightly (the amount often depends on accent). 
 
-You can get a good practice of hearing this for yourself by listening to someone reading a book out loud. Then you can see how the written commas and periods correspond to changes in tone.
+You can get a good practice of hearing this for yourself by listening to someone reading a book out loud. Then you can see how the written commas and periods correspond to changes in tone. Not following this tonal patter can cause your voice to sound childish, or monotonous.
 
 ## When the cooperative principle is overtly violated (dealing with purposeful meanness)
+
+Sometimes, you might encounter people who are not nice. They want to put you down, make you feel bad, exclude you from social phenomena etc. In other words, they do not follow the cooperative principle. However, such people will almost never make this clear, and they instead prefer over tactics for this. For example, they may give backhanded compliments, which seem like genuine compliments at first, but further inspection reveals them to actually imply something insulting. A common example is when someone says "only you could pull off...". It implies that what you are wearing or doing is typically considered ugly or unfashionable. 
+    > A: Only _you_ could rock _that_ colour of skirt.
+    > B: Hey, at least Im managing to rock it. I mean _that_ shade of lipstick? Even you cant seem to pull it off.
 
 ## Awkwardness
 I dont know what you have been told, but awkwardness isnt real. It is, in the most literal sense, a social construct. Do you remember anyone (other than yourself) being awkward? How often have you thought about it? No, and never. Because awkwardness is not real, it is simply an illusion. Do not fall for it. Do you think you are being awkward? No. You are not. Because awkwardness isnt real. Do you think someone else is being awkward? No they are not. Awkwardness isnt real. Just keep doing what you were doing, and stop worrying about "being awkward". Awkwardness isnt real. 
