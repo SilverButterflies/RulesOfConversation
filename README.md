@@ -241,6 +241,22 @@ Sometimes, you might encounter people who are not nice. They want to put you dow
     > A: Only _you_ could rock _that_ colour of skirt.
     > B: Hey, at least Im managing to rock it. I mean _that_ shade of lipstick? Even you cant seem to pull it off.
 
+Insults or backhanded compliments, or even friendly banter, consists of small sparring matches played with words. The goal is to say or imply that you are better than your opponent (either by complimenting yourself or insulting the opponent). The winner is the one who does this in the most interesting way. This means that the skills needed to win this sparring match are similar to those needed to tell jokes. The strategy to clapback is to accept what the opponent has said, and twist their own words to make you seem better than them. 
+
+    >Tyrion Lannister : Any man of the Night's Watch but not I, eh, boy?
+
+    >Robb Stark : I'm not your boy, Lannister. I'm Lord of Winterfell while my father is away.
+
+    >Tyrion Lannister : Then you might learn a lord's courtesy. 
+    - A Song of Ice and Fire
+
+
+
+   Jaime Lannister: Smart, boy. What's wrong? Don't like being called boy? Insulted? [Jaime sees Robb's direwolf, Grey Wind, stalking around the cage.]
+
+Robb Stark: You insult yourself, Kingslayer. You've been defeated by a boy. You're held captive by a boy. Perhaps you'll be killed by a boy.
+
+
 ## Awkwardness
 I dont know what you have been told, but awkwardness isnt real. It is, in the most literal sense, a social construct. Do you remember anyone (other than yourself) being awkward? How often have you thought about it? No, and never. Because awkwardness is not real, it is simply an illusion. Do not fall for it. Do you think you are being awkward? No. You are not. Because awkwardness isnt real. Do you think someone else is being awkward? No they are not. Awkwardness isnt real. Just keep doing what you were doing, and stop worrying about "being awkward". Awkwardness isnt real. 
 
