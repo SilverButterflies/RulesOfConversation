@@ -236,24 +236,30 @@ You can get a good practice of hearing this for yourself by listening to someone
 ## When the cooperative principle is overtly violated (dealing with purposeful meanness)
 
 Sometimes, you might encounter people who are not nice. They want to put you down, make you feel bad, exclude you from social phenomena etc. In other words, they do not follow the cooperative principle. However, such people will almost never make this clear, and they instead prefer over tactics for this. For example, they may give backhanded compliments, which seem like genuine compliments at first, but further inspection reveals them to actually imply something insulting. A common example is when someone says "only you could pull off...". It implies that what you are wearing or doing is typically considered ugly or unfashionable. 
-    > A: Only _you_ could rock _that_ colour of skirt.
-    > B: Hey, at least Im managing to rock it. I mean _that_ shade of lipstick? Even you cant seem to pull it off.
+
+  >A: Only _you_ could rock _that_ colour of skirt.
+
+  >B: Hey, at least Im managing to rock it. I mean _that_ shade of lipstick? Even you cant seem to pull it off.
 
 Insults or backhanded compliments, or even friendly banter, consists of small sparring matches played with words. The goal is to say or imply that you are better than your opponent (either by complimenting yourself or insulting the opponent). The winner is the one who does this in the most interesting way. This means that the skills needed to win this sparring match are similar to those needed to tell jokes. The strategy to clapback is to accept what the opponent has said, and twist their own words to make you seem better than them. 
 
-    >Tyrion Lannister : Any man of the Night's Watch but not I, eh, boy?
+  >Tyrion Lannister: Any man of the Night's Watch but not I, eh, boy?
 
-    >Robb Stark : I'm not your boy, Lannister. I'm Lord of Winterfell while my father is away.
+  >Robb Stark: I'm not your boy, Lannister. I'm Lord of Winterfell while my father is away.
 
-    >Tyrion Lannister : Then you might learn a lord's courtesy. 
-    - A Song of Ice and Fire
+  >Tyrion Lannister: Then you might learn a lord's courtesy.
 
+  Here, Robb comes off as childish because he tries to refuse the insult rather than reframing it. Tyrion does not then respond with a "no you are not! You are just a boy!", as a child would. He accepted Robb's claim that he is a Lord, and then pointed out that he makes a rather poor one. This way, he 'won' this sparring match in the eyes of the audience. 
 
+  >Jaime Lannister: Smart, boy. What's wrong? Don't like being called boy? Insulted?
 
-   Jaime Lannister: Smart, boy. What's wrong? Don't like being called boy? Insulted? [Jaime sees Robb's direwolf, Grey Wind, stalking around the cage.]
+  >Robb Stark: You insult yourself, Kingslayer. You've been defeated by a boy. You're held captive by a boy. Perhaps you'll be killed by a boy.
 
-Robb Stark: You insult yourself, Kingslayer. You've been defeated by a boy. You're held captive by a boy. Perhaps you'll be killed by a boy.
+  Here, the same Robb has learned from before and does not reply by again refusing the insult. This time, he accepts Jaime's claim that he is a boy, and turns the insult back on Jaime. Now, Robb has managed to 'win' this sparring match.
 
+  - A Song A Fire and Ice by George R. R. Martin
+
+  > Insert real-life example here
 
 ## Awkwardness
 I dont know what you have been told, but awkwardness isnt real. It is, in the most literal sense, a social construct. Do you remember anyone (other than yourself) being awkward? How often have you thought about it? No, and never. Because awkwardness is not real, it is simply an illusion. Do not fall for it. Do you think you are being awkward? No. You are not. Because awkwardness isnt real. Do you think someone else is being awkward? No they are not. Awkwardness isnt real. Just keep doing what you were doing, and stop worrying about "being awkward". Awkwardness isnt real. 
